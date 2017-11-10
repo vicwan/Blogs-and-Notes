@@ -1,2 +1,2 @@
 # Blogs-and-Notes
-Learning notes
+Notes during learning.
